@@ -1,0 +1,123 @@
+*{
+  padding:0;
+  border:0;
+  margin:0;
+}
+body{
+    background:#FFFFFF;
+    font: normal 14px/2em serif;
+    text-align: justify;
+}
+
+#main_container{
+width:1000px;
+margin:0 auto;
+background:#D2E0E4;
+}
+
+#container{
+width:900px;
+margin:0 auto;
+}
+
+.clear{
+    clear:both;
+}
+
+h1{
+    margin-bottom: 20px;
+    color:#003D74;
+}
+
+h2{
+    margin-top: 20px;
+    color:#21409B;
+}
+
+h3{
+    color:#5A68B3;
+}
+
+.portrait{
+    width:220px;
+    float:left;
+    margin:5px 20px 5px 0;
+    border:3px solid #003D74;
+}
+
+table{
+    font-family: sans-serif;
+    font-size: 14px;
+    background: white;
+    max-width: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th {
+    background-color:#B9C9FE;
+    font-size: 13px;
+    font-weight: normal;
+    border-top: 4px solid #AABCFE;
+    border-bottom: 1px solid #fff;
+    color: #039;
+    padding: 10px;
+}
+
+td {
+    background-color:#E8EDFF;
+    border-bottom: 1px solid #fff;
+    color: #000;
+    border-top: 1px solid transparent;/*transparent-прозрачный*/
+    padding: 10px;
+}
+
+.even{
+    color:#1F419B;
+}
+
+tr:hover td{
+    background-color:#CCDDFF;
+}
+
+#contacts{
+    height:300px;
+}
+#contacts ul{
+    list-style-type: none;
+}
+
+#contacts div{
+   max-width: 660px;
+   margin-left: 240px;
+   margin-top: 20px;
+   /*outline:1px solid red;*/
+}
+
+.icon{
+    display:inline-block;
+    width:35px;
+    margin-left: 10px;
+}
+
+#contacts div ul {
+    list-style-type: disc;
+    padding-left: 25px;
+}
+
+#education ul{
+  list-style-type: none;  
+}
+
+#attainments ol{
+     list-style-type: upper-roman;
+     padding-left: 15px;
+     font-weight: bold;
+}
+
+#attainments ul{
+     list-style-image:url(../image/marker_2.png);
+     padding-left: 20px; 
+     font-weight: normal;
+}
