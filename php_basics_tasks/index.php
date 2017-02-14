@@ -37,6 +37,13 @@ and open the template in the editor.
         <a href="25.php">task 25</a><br>
         <a href="26.php">task 26</a><br>
         <a href="27.php">task 27</a><br>
-        <a href="task_rezume/index.php">task_rezume_template</a>
+        <a href="task_rezume/index.php">task_rezume_template</a><br>
+        <h2>Devionity</h2>
+        <a href="devionity/18.php">task_18_devionity</a><br>
+        <a href="devionity/19.php">task_19_devionity</a><br>
+        <a href="devionity/20.php">task_20_devionity</a><br>
+        <a href="devionity/22.php">task_22_devionity</a><br>
+        <a href="devionity/23.php">task_23_devionity</a><br>
+        <a href="devionity/28.php">task_28_devionity</a><br>
     </body>
 </html>
