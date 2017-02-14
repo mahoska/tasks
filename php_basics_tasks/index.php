@@ -36,7 +36,7 @@ and open the template in the editor.
         <a href="24.php">task 24</a><br>
         <a href="25.php">task 25</a><br>
         <a href="26.php">task 26</a><br>
-        <a href="27.php">task 27</a>
+        <a href="27.php">task 27</a><br>
         <a href="task_rezume/index.php">task_rezume_template</a>
     </body>
 </html>
