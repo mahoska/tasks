@@ -28,7 +28,7 @@
             
             $number = (int)$number;
             if($number<2) {
-                die('number must be more than 2');
+                die('number must be not less 2');
             }
             
             $result = true;
@@ -48,6 +48,7 @@
         }  
     ?>
     
-    
+    <br>
+    <a href ="index.php">return to menu</a>
 </body>
 </html>
