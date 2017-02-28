@@ -1,0 +1,7 @@
+tatka:hello
+рита:всем привет
+Борис:Тестирование! Что нового?
+user:Ok
+test:test
+some:info
+Bob:Привет!
